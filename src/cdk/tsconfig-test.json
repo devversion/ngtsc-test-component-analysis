@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "../../dist/packages/cdk",
+        "lib": ["es2015", "dom"],
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
+    },
+    "files": [
+        "index.ts"
+    ],
+    "include": [
+        "**/*.spec.ts"
+    ]
+}
